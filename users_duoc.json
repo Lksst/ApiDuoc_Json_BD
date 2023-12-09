@@ -1,0 +1,382 @@
+{
+  "docentes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "email": "jperez@gmail.com",
+      "jornada": "diurno",
+      "anio": 2023,
+      "semestre": 2,
+      "asignatura": [
+        "PGY1231",
+        "PGY221",
+        "APY4461"
+      ],
+      "contrasena": "Aplicaciones123",
+      "role": "docente",
+      "isactive": true
+    },
+    {
+      "id": 2,
+      "nombre": "Maria",
+      "apellido": "Gomez",
+      "email": "mgomez@gmail.com",
+      "jornada": "vespertino",
+      "anio": 2023,
+      "semestre": 2,
+      "asignatura": [
+        "PGY1231",
+        "PGY221",
+        "APY4461"
+      ],
+      "contrasena": "Duoc12345",
+      "role": "docente",
+      "isactive": true
+    },
+    {
+      "nombre": "lucas",
+      "apellido": "Cisternas",
+      "email": "luc@duocuc.cl",
+      "jornada": "vespertino",
+      "anio": 2023,
+      "semestre": "2",
+      "asignatura": [
+        "PGY4121",
+        "APY4461"
+      ],
+      "contrasena": "Duoc123455",
+      "role": "",
+      "isactive": false,
+      "id": 3
+    },
+    {
+      "nombre": "awaw",
+      "apellido": "aaaa",
+      "email": "awawa@awa",
+      "jornada": "vespertino",
+      "anio": "2023",
+      "semestre": "2",
+      "asignatura": [],
+      "contrasena": "AAaa22",
+      "role": "docente",
+      "isactive": true,
+      "id": 4
+    },
+    {
+      "nombre": "Joaquin",
+      "apellido": "Mada",
+      "email": "jo.mada@gmail",
+      "jornada": "diurno",
+      "anio": "2023",
+      "semestre": "2",
+      "asignatura": [],
+      "contrasena": "AAaa22",
+      "role": "docente",
+      "isactive": true,
+      "id": 5
+    },
+    {
+      "nombre": "wwww",
+      "apellido": "zzzzz",
+      "email": "zzzz@aa",
+      "jornada": "diurno",
+      "anio": 2023,
+      "semestre": "1",
+      "asignatura": [
+        "PGY4121",
+        "APY4461",
+        "INI5111"
+      ],
+      "contrasena": "22AAaa",
+      "role": "docente",
+      "isactive": true,
+      "id": 6
+    },
+    {
+      "nombre": "Pelusa",
+      "apellido": "Madariaga",
+      "email": "pelusa@duoc",
+      "jornada": "diurno",
+      "anio": 2023,
+      "semestre": "1",
+      "asignatura": [
+        "APY4461",
+        "INI5111"
+      ],
+      "contrasena": "Mypelusa123",
+      "role": "docente",
+      "isactive": true,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "nombre": "Tomas",
+      "apellido": "Salas",
+      "email": "tomas@duocuc.cl",
+      "jornada": "diurno",
+      "anio": 2023,
+      "semestre": "2",
+      "asignatura": [
+        "INI5111",
+        "EAY4450"
+      ],
+      "contrasena": "TomasSalas1",
+      "role": "docente",
+      "isactive": true
+    },
+    {
+      "nombre": "Leonardo",
+      "apellido": "Martinez",
+      "email": "Leo@duocuc.cl",
+      "jornada": "vespertino",
+      "anio": 2023,
+      "semestre": "2",
+      "asignatura": [
+        "EAY4450",
+        "MAT4140"
+      ],
+      "contrasena": "lEO1234",
+      "role": "docente",
+      "isactive": true,
+      "id": 9
+    },
+    {
+      "nombre": "jose",
+      "apellido": "vex",
+      "email": "jose@gmail",
+      "jornada": "vespertino",
+      "anio": 2023,
+      "semestre": "1",
+      "asignatura": [
+        "PGY4121",
+        "APY4461"
+      ],
+      "contrasena": "Vex123",
+      "role": "docente",
+      "isactive": true,
+      "id": 10
+    },
+    {
+      "nombre": "Lucas",
+      "apellido": "Copihue",
+      "email": "Copihue@a",
+      "jornada": "diurno",
+      "anio": 2023,
+      "semestre": "2",
+      "asignatura": [
+        "PGY4121"
+      ],
+      "contrasena": "AAW123as",
+      "role": "docente",
+      "isactive": true,
+      "id": 11
+    },
+    {
+      "nombre": "Diego",
+      "apellido": "Valenzuela",
+      "email": "Diego@duocuc.cl",
+      "jornada": "vespertino",
+      "anio": "2023",
+      "semestre": "2",
+      "asignatura": [
+        "INI5111",
+        "EAY4450",
+        "MAT4140"
+      ],
+      "contrasena": "Diego123",
+      "role": "docente",
+      "isactive": true,
+      "id": 12
+    }
+  ],
+  "feriado": [
+    {
+      "id": 8,
+      "fecha": "2023-05-01",
+      "descripcion": "Día del Trabajador"
+    },
+    {
+      "id": 1,
+      "fecha": "2023-09-18",
+      "descripcion": "Fiestas Patrias"
+    },
+    {
+      "id": 2,
+      "fecha": "2023-09-19",
+      "descripcion": "Fiestas Patrias"
+    },
+    {
+      "id": 3,
+      "fecha": "2023-10-31",
+      "descripcion": "Halloween"
+    },
+    {
+      "id": 4,
+      "fecha": "2023-11-01",
+      "descripcion": "Día de todos los Santos"
+    },
+    {
+      "id": 5,
+      "fecha": "2023-12-08",
+      "descripcion": "Inmaculada Concepción"
+    },
+    {
+      "id": 6,
+      "fecha": "2023-12-25",
+      "descripcion": "Navidad"
+    },
+    {
+      "id": 7,
+      "fecha": "2023-12-31",
+      "descripcion": "Año Nuevo"
+    }
+  ],
+  "estudiantes": [
+    {
+      "id": 1,
+      "nombre": "Juancito",
+      "apellido": "Pereira",
+      "email": "jpereir@gmail.com",
+      "jornada": "diurno",
+      "anio": 2023,
+      "semestre": 2,
+      "asignatura": [
+        "PGY1231",
+        "PGY221",
+        "APY4461"
+      ],
+      "contrasena": "Aplicaciones123",
+      "role": "estudiante",
+      "isactive": true
+    },
+    {
+      "nombre": "Ppeit",
+      "apellido": "Pqwe",
+      "email": "Pepite@aw",
+      "jornada": "diurno",
+      "anio": 2023,
+      "semestre": "1",
+      "asignatura": [],
+      "contrasena": "Pepito12",
+      "role": "estudiante",
+      "isactive": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Corxea",
+      "apellido": "Jungla",
+      "email": "Corxea@duoc",
+      "jornada": "Diurno",
+      "anio": 2023,
+      "semestre": "1",
+      "asignatura": [],
+      "contrasena": "Corxea123",
+      "role": "estudiante",
+      "carrera": "DIS3561",
+      "isactive": true
+    },
+    {
+      "nombre": "felipe",
+      "apellido": "Cisternas",
+      "email": "Felipe@duoc",
+      "jornada": "vespertino",
+      "anio": "2023",
+      "semestre": "1",
+      "asignatura": [],
+      "carrera": "APC4267",
+      "contrasena": "Felipe123",
+      "role": "estudiante",
+      "isactive": true,
+      "id": 4
+    },
+    {
+      "nombre": "Juanito",
+      "apellido": "Lazcano",
+      "email": "Lazcano@duoc",
+      "jornada": "diurno",
+      "anio": "2023",
+      "semestre": "1",
+      "asignatura": [],
+      "carrera": "INF312",
+      "contrasena": "Lazcano123",
+      "role": "estudiante",
+      "isactive": true,
+      "id": 5
+    },
+    {
+      "nombre": "Eduardo",
+      "apellido": "Villena",
+      "email": "Eduardo@duoc",
+      "jornada": "vespertino",
+      "anio": "2023",
+      "semestre": "2",
+      "asignatura": [],
+      "carrera": "APC4267",
+      "contrasena": "Eduardo123",
+      "role": "estudiante",
+      "isactive": true,
+      "id": 6
+    }
+  ],
+  "qrasistencias": [
+    {
+      "id": 1,
+      "email_docente": "jperez@gmail.com",
+      "fecha": "2023-09-18",
+      "qr": "08:00"
+    },
+    {
+      "email_docente": "jperez@gmail.com",
+      "fecha": "22:58:13",
+      "qr": "22:58:13 - PGY1231",
+      "id": 2
+    },
+    {
+      "email_docente": "tomas@duocuc.cl",
+      "fecha": "1700255578175",
+      "qr": "1700255578175 - EAY4450",
+      "id": 3
+    },
+    {
+      "email_docente": "tomas@duocuc.cl",
+      "fecha": "17-11-2023, 18:15:10",
+      "qr": "17-11-2023, 18:15:10 - INI5111",
+      "id": 4
+    },
+    {
+      "email_docente": "jperez@gmail.com",
+      "fecha": "21-11-2023, 01:34:20",
+      "qr": "21-11-2023, 01:34:20 - PGY1231",
+      "id": 5
+    },
+    {
+      "email_docente": "jperez@gmail.com",
+      "fecha": "21-11-2023, 01:54:14",
+      "qr": "21-11-2023, 01:54:14 - PGY221",
+      "id": 6
+    },
+    {
+      "email_docente": "tomas@duocuc.cl",
+      "fecha": "21-11-2023, 01:59:10",
+      "qr": "21-11-2023, 01:59:10 - EAY4450",
+      "id": 7
+    },
+    {
+      "email_docente": "jperez@gmail.com",
+      "fecha": "21-11-2023, 12:18:38",
+      "asignatura": "PGY1231",
+      "qr": "21-11-2023, 12:18:38 - PGY1231",
+      "id": 8
+    },
+    {
+      "email_docente": "tomas@duocuc.cl",
+      "fecha": "21-11-2023, 13:21:06",
+      "asignatura": "INI5111",
+      "qr": "21-11-2023, 13:21:06 - INI5111",
+      "email_alumno": [],
+      "id": 9
+    }
+  ]
+}
